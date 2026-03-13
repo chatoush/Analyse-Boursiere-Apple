@@ -138,7 +138,7 @@ Une vérification des doublons a également été effectuée.
 
 
 
-###Vérification de la cohérence logique des prix
+### Vérification de la cohérence logique des prix
 
 
 
@@ -158,7 +158,7 @@ Formule utilisée :
 
 
 
-=SI(ET(C2>=B2;C2>=E2;D2<=B2;D2<=E2);"OK";"ERREUR")
+## =SI(ET(C2>=B2;C2>=E2;D2<=B2;D2<=E2);"OK";"ERREUR")
 
 
 
