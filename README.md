@@ -158,7 +158,7 @@ Formule utilisée :
 
 
 
-## =SI(ET(C2>=B2;C2>=E2;D2<=B2;D2<=E2);"OK";"ERREUR")
+=SI(ET(C2>=B2;C2>=E2;D2<=B2;D2<=E2);"OK";"ERREUR")
 
 
 
@@ -298,7 +298,7 @@ L’objectif du tableau de bord est de fournir une vue d’ensemble claire, lisi
 
 
 
-\##Architecture du classeur Excel
+## Architecture du classeur Excel
 
 
 
