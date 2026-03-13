@@ -1,12 +1,12 @@
- #Analyse descriptive des rendements et de la volatilité de l’action Apple (1980–2025)
+ # Analyse descriptive des rendements et de la volatilité de l’action Apple (1980–2025)
 
 
 
-!\[...]
+![...]
 
 
 
-\## Description du projet
+## Description du projet
 
 
 
@@ -34,7 +34,7 @@ certains indicateurs clés résumant le comportement historique du titre.
 
 
 
-\##Jeu de données
+## Jeu de données
 
 
 
@@ -54,7 +54,7 @@ Format : CSV / Excel
 
 
 
-\##Variables initiales
+## Variables initiales
 
 
 
@@ -82,11 +82,11 @@ Volume : nombre d’actions échangées
 
 
 
-\## Méthodologie de nettoyage des données
+## Méthodologie de nettoyage des données
 
 
 
-\### Séparation correcte des colonnes
+### Séparation correcte des colonnes
 
 
 
@@ -106,7 +106,7 @@ séparateur : virgule
 
 
 
-\### Vérification et correction des types de données
+### Vérification et correction des types de données
 
 
 
@@ -138,7 +138,7 @@ Une vérification des doublons a également été effectuée.
 
 
 
-\###Vérification de la cohérence logique des prix
+###Vérification de la cohérence logique des prix
 
 
 
@@ -168,7 +168,7 @@ La colonne de vérification a ensuite été supprimée.
 
 
 
-\### Création et recalcul des variables dérivées
+### Création et recalcul des variables dérivées
 
 
 
@@ -180,7 +180,7 @@ Rendement journalier
 
 
 
-Daily\_Return = (Close\_t − Close\_{t−1}) / Close\_{t−1}
+Daily_Return = (Close_t − Close_{t−1}) / Close_{t−1}
 
 
 
@@ -188,7 +188,7 @@ Amplitude quotidienne du prix
 
 
 
-Price\_Range = High − Low
+Price_Range = High − Low
 
 
 
@@ -200,9 +200,9 @@ Les données finales ont été organisées dans un tableau structuré, facilitan
 
 
 
-\##Analyse et visualisation
+## Analyse et visualisation
 
-\###Indicateurs clés (KPI)
+### Indicateurs clés (KPI)
 
 
 
@@ -226,7 +226,7 @@ Ces indicateurs offrent une lecture rapide du comportement global du titre.
 
 
 
-\###Volatilité annuelle
+### Volatilité annuelle
 
 
 
@@ -250,7 +250,7 @@ les périodes plus calmes du marché
 
 
 
-\###Distribution des rendements journaliers
+### Distribution des rendements journaliers
 
 
 
@@ -274,7 +274,7 @@ Illustration du caractère typique des distributions financières
 
 
 
-\##Tableau de bord interactif
+## Tableau de bord interactif
 
 
 
@@ -316,7 +316,7 @@ Tableau de bord : tableau de bord final
 
 
 
-\## Outils utilisés
+## Outils utilisés
 
 
 
@@ -332,7 +332,7 @@ Visualisation et dashboard interactif
 
 
 
-\##Compétences mises en pratique
+## Compétences mises en pratique
 
 
 
@@ -350,7 +350,7 @@ Lecture et interprétation d’indicateurs financiers
 
 
 
-\##Conclusion
+## Conclusion
 
 
 
