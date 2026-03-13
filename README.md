@@ -1,8 +1,8 @@
- # Analyse descriptive des rendements et de la volatilité de l’action Apple (1980–2025)
+# Analyse descriptive des rendements et de la volatilité de l’action Apple (1980–2025)
 
 
 
-![...](Dashdoard.png)
+![...](Dashboard.png)
 
 
 
